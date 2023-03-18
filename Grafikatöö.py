@@ -15,7 +15,7 @@ def klikker():
 
 tekst="Aken"
 aken=Tk()
-Tk="Ruutvõrrandid"
+
 aken.geometry("600x720")
 aken.title()
 
