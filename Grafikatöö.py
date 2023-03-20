@@ -59,6 +59,7 @@ nupp=Button(aken,
 
 
 
+
 pealkiri.pack()
 tekst_kast.pack()
 tekst_kas.pack() 
