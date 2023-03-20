@@ -6,12 +6,9 @@ def text_to_lbl(event):
     pealkiri.configure(text=text)
     tekst_kast.delete(0,END)
 
-def klikker():
-    global k
-    k+=1
-    nupp.configure(text=k)
-    
 
+
+    
 
 tekst="Aken"
 aken=Tk()
@@ -58,7 +55,7 @@ nupp=Button(aken,
             font="Algerian 20",
             height=5,
             width=10,
-            command=klikker)
+            )
 
 
 
